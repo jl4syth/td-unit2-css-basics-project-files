@@ -6,6 +6,9 @@ h1 {
     font-size: 4rem;
     margin-bottom: 1.5rem;
 }
+#heading {
+    color: yellow;
+}
 p {
     color: olive;
     font-size: 26px;
